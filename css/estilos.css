@@ -47,6 +47,10 @@ body
     background: white;
     padding: 1em;
 }
+.gitignore{
+    display: block;
+    margin: auto;
+}
 #footer{
     background: rgb(170, 164, 164);
     color:whitesmoke;
