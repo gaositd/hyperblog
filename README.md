@@ -11,7 +11,7 @@ Blog hecho en el curso de Platzi, curso [git y github platzi](http://platzi.com/
 >>El curso de de Git y GitHub es lo que me hacia falta para triplicar mi salario y lanzarme a la industria de la la sintética con Machine Learning
 >- 
 
-Esto es el contenido del curso
+# **Esto es el contenido del curso**
 * Todos lo comando de Git
 * Flujo de trabajo en Github
 * Buenas prácticas
