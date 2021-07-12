@@ -18,6 +18,7 @@ Blog hecho en el curso de Platzi, curso [git y github platzi](http://platzi.com/
 * Trucos
 * Creado por Alvaro Gaemz Chavez
 * Incluye ejemplos en windows linux y mac
+* Disponible par todos
 
 >Y como recordatorio: ESTE README.MD ES UNA PRÁCTICA HECHA CON  ***https://pandao.github.io/editor.md/en.html***
 
