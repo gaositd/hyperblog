@@ -11,6 +11,5 @@ x
 SU historia
 
 Experimento 1
-
-Historia 1
-Historia 2
+Experimento 2
+Historia 1Historia 2
