@@ -16,6 +16,7 @@ Blog hecho en el curso de Platzi, curso [git y github platzi](http://platzi.com/
 * Flujo de trabajo en Github
 * Buenas prácticas
 * Trucos
+* Creado por Alvaro Gaemz Chavez
 
 >Y como recordatorio: ESTE README.MD ES UNA PRÁCTICA HECHA CON  ***https://pandao.github.io/editor.md/en.html***
 
